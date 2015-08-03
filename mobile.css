@@ -1,0 +1,12 @@
+/* 
+* enqueued when jetpack mobile theme is running
+*/
+.sup, .sub {
+	vertical-align: baseline;
+	position: relative;
+	top: -.4em;
+}
+
+.sub {
+	top: .4em;
+}

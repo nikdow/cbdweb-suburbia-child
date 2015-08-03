@@ -1,0 +1,22 @@
+/*
+Theme Name:   Suburbia Child
+ Theme URI:    http://cbdweb.net/suburbia-child/
+ Description:  Suburbia Child Theme
+ Author:       Nik Dow
+ Author URI:   http://www.cbdweb.net
+ Template:     suburbia
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Text Domain:  suburbia-child
+*/
+
+.site-name {
+	width: 350px;
+	height: 30px;
+	border-left: 1px solid #e0e0e0;
+	position: absolute;
+	top: 0;
+	left: 195px;
+	padding: 15px 20px 0;
+}
