@@ -29,7 +29,7 @@
     <h3>Contact</h3>
     <ul>
     	<li><a href="/contact-us/">Contact details</a></li>
-        <li><a href="<?php echo (get_option('suburbia_twturl'))? get_option('suburbia_twturl') : 'http://twitter.com/wpshower'; ?>" title="Twitter">Follow us on Twitter</a></li>
+        <li><a href="<?php echo (get_option('suburbia_twturl'))? get_option('suburbia_twturl') : 'https://twitter.com/wpshower'; ?>" title="Twitter">Follow us on Twitter</a></li>
     </ul>
 <?php endif; ?>
 
