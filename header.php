@@ -101,7 +101,7 @@
 		        		<a href="<?php bloginfo("url"); ?>/">
 						<img src="<?php bloginfo('template_url'); ?>/images/logo2.gif" class="dem-home" alt="<?php bloginfo('name'); ?>" width="155" height="155" /></a>
 		        		<?php else: ?>
-		        		<a href="<?php home_url; ?>/"><img src="<?php echo get_option('suburbia_apropos'); ?>" class="dem-home" width="155" height="155" /></a>       		
+		        		<a href="<?php home_url(); ?>/"><img src="<?php echo get_option('suburbia_apropos'); ?>" class="dem-home" width="155" height="155" /></a>       		
 		        		<?php endif ?>
 
 
